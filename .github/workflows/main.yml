@@ -65,7 +65,7 @@ jobs:
         run: make generate-xcodeproj
       
       - name: Xcode build
-        run: meke build-debug
+        run: make build-debug
         
       - name: Xcode test
         run: meke test
