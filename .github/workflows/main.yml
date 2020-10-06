@@ -68,6 +68,6 @@ jobs:
         run: make build-debug
         
       - name: Xcode test
-        run: meke test
+        run: make test
       
       
