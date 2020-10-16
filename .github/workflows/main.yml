@@ -19,7 +19,7 @@ on:
       - Docs/**
       - README.md 
 env:
-  DEVELOPER_DIR: /Applications/Xcode.app/Contents/Developer 
+  DEVELOPER_DIR: /Applications/Xcode_11.6.app/Contents/Developer
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
